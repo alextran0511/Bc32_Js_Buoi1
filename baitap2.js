@@ -13,8 +13,8 @@ e là số thực thứ năm
 - Tạo biến e gán giá trị 5
 
 Xử lý:
-- Tạo biến tổng: Sum = a + b + c + d + e
-- Tạo biến trung bình: Ave = sum / 5
+- Tạo biến tổng: sum = a + b + c + d + e
+- Tạo biến trung bình: ave = sum / 5
 
 Đàu ra:
 Thông báo ra kết quả console

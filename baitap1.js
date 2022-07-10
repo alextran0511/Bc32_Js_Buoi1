@@ -7,7 +7,7 @@ d là số ngày làm
 - Tạo biến d gán giá trị là tổng số ngày làm
 
 Xử lý:
-- Tạo biến Salary = n * d
+- Tạo biến salary = n * d
 
 Đàu ra:
 Thông báo ra kết quả console
